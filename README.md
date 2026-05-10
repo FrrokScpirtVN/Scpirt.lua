@@ -1,0 +1,2 @@
+# Scpirt.lua
+By Frook
